@@ -1,0 +1,21 @@
+C:\Users\dsiberia9s\Desktop\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\dsiberia9s\Desktop\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dsiberia9s\Desktop\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\dsiberia9s\Desktop\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\dsiberia9s\Desktop\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\JPG FullHD Resizer.exe.config
+C:\Users\dsiberia9s\Desktop\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\JPG FullHD Resizer.exe
+C:\Users\dsiberia9s\Desktop\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\JPG FullHD Resizer.pdb
+C:\Users\dsiberia9s\Desktop\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\JPG FullHD Resizer.exe
+C:\Users\dsiberia9s\Desktop\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\JPG FullHD Resizer.pdb
+D:\YandexDisk\Dev\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\YandexDisk\Dev\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\YandexDisk\Dev\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\YandexDisk\Dev\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Dev\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Photo FullHD Resizer.exe.config
+D:\YandexDisk\Dev\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Photo FullHD Resizer.exe
+D:\YandexDisk\Dev\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Photo FullHD Resizer.pdb
+D:\YandexDisk\Dev\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Photo FullHD Resizer.exe
+D:\YandexDisk\Dev\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Photo FullHD Resizer.pdb
+D:\YandexDisk\Dev C#\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Photo FullHD Resizer.exe.config
+D:\YandexDisk\Dev C#\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Photo FullHD Resizer.exe
+D:\YandexDisk\Dev C#\diskplus\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Photo FullHD Resizer.pdb
