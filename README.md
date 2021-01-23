@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/dsiberia9s/WINDOWS_Full-HD_Resizer/master/screenshot.jpg)
+![](https://raw.githubusercontent.com/dsiberia9s/WINDOWS_Full-HD_Resizer/master/screenshot.png)
 
 **[по-русски]**
 
